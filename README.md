@@ -64,3 +64,9 @@
 3:32pm Continuing work on Code Academy course on React Native. Wanting to document time.
 
 watching Mosh's video for more context 4:15pm
+#
+---
+### MongoDB Implementation for React Native
+* https://www.mongodb.com/docs/realm/tutorial/react-native/
+#### here is a tutorial on MongoDB for setting up MongoDB in React Native
+---
