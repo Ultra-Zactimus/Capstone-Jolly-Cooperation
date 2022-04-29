@@ -60,3 +60,5 @@
 #### This is going to serve as a supplemental tool for me to get used to using React-Native along with Code Academy.
 #
 ---
+
+3:32pm Continuing work on Code Academy course on React Native. Wanting to document time.
