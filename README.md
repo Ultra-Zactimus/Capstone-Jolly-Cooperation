@@ -16,3 +16,10 @@
 ---
 * https://reactnative.dev/docs/text-style-props
 #### Helpful React Native tutorial on manipulating styles in-line
+---
+* https://www.codecademy.com/learn/learn-react-native/modules/core-components-react-native/cheatsheet
+#### This has a bunch of different impimentations of using the core components in React Native.
+---
+* https://reactnative.dev/docs/image
+#### This is React Native's official documentation for how to use different core components. Seems pretty extensive. Me like!
+--- 
