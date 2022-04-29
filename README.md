@@ -1,4 +1,4 @@
-## _Reasearch Notes_
+## _Research Notes_
 
 * https://docs.expo.dev/introduction/walkthrough/
 * https://docs.expo.dev/bare/exploring-bare-workflow/
