@@ -62,3 +62,5 @@
 ---
 
 3:32pm Continuing work on Code Academy course on React Native. Wanting to document time.
+
+watching Mosh's video for more context 4:15pm
