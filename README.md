@@ -51,5 +51,7 @@
 ### Setting Up Authentication in React-Native
 * https://youtu.be/uz2pukjED2I
 #### This video is from Code academy and shows how you setup authentication with Input forms for the user to fill out. Will be needing this for the Capstone.
+* https://formik.org/
+#### This is doumentation and what you need to get Formik added to a React Native project. Formik makes the code more DRY by handling the useState so you dont have to have a billion variables for each state you need to set. Gonna try to implement this for Capstone.
 #
 ---
