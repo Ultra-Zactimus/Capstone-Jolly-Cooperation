@@ -48,3 +48,8 @@
 #### This is React Native's official documentation for how to use different core components. Seems pretty extensive. Me like!
 #
 --- 
+### Setting Up Authentication in React-Native
+* https://youtu.be/uz2pukjED2I
+#### This video is from Code academy and shows how you setup authentication with Input forms for the user to fill out. Will be needing this for the Capstone.
+#
+---
