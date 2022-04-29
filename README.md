@@ -55,3 +55,8 @@
 #### This is doumentation and what you need to get Formik added to a React Native project. Formik makes the code more DRY by handling the useState so you dont have to have a billion variables for each state you need to set. Gonna try to implement this for Capstone.
 #
 ---
+### Tutorial by Mosh Hamedani on React Native with Expo
+* https://www.youtube.com/watch?v=0-S5a0eXPoc
+#### This is going to serve as a supplemental tool for me to get used to using React-Native along with Code Academy.
+#
+---
