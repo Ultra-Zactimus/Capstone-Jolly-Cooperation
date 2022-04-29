@@ -22,6 +22,8 @@
 
 * https://www.codecademy.com/courses/learn-react-native/lessons/core-components/exercises/button-component
 
+* https://www.codecademy.com/courses/learn-react-native/lessons/core-components/exercises/combining-components
+
 
 #### This is proably going to be my main source of gaining knowledge on using React Native.
 #
